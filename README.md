@@ -8,21 +8,25 @@
 
  - 🎓 Estudante de Engenharia de Software UnB - FCTE
  - 💻 Apaixonado por programação, tecnologia e aprendizado contínuo  
- - 🚀 Sempre em busca de novos desafios e projetos interessantes 
+ - 🚀 Sempre em busca de novos desafios e projetos interessantes
+
+---
 
 <!-- Gráficos e Estatísticas-->
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=dev-americo&show_icons=true&theme=tokyonight)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-americo&layout=compact&theme=tokyonight)
 
-<!-- Animação -->
-![Snake animation](https://github.com/dev-americo/dev-americo/blob/output/github-contribution-grid-snake.svg)
 
-<!--
-## 📊 Estatísticas
-## 🛠️ Tecnologias que utilizo
-## 📫 Como me encontrar
--->
+<div align="center">
+  <h3><b>Visitantes</b></h3>
+</div>
+<p align="center">
+    <img src="https://profile-counter.deno.dev/:dev-americo:/count.svg" alt="Key:: Número de visitantes no perfil" />
+</p>
+
+---
+### Entre em contato comigo! 📩
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pedro-americo-01b154381/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.americo@gmail.com)
